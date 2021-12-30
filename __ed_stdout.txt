@@ -1,0 +1,9 @@
+__ed_script.sh
+__ed_stderr.txt
+__ed_stdout.txt
+createFakeData.py
+helloworld
+main.sh
+manage.py
+output
+sample_app
